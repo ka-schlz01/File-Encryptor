@@ -1,10 +1,10 @@
 ﻿# Build Folders
-bin/
-obj/
+
 
 # IDE Settings
 .vscode/
 .idea/
+
 *.suo
 *.user
 *.userosscache
