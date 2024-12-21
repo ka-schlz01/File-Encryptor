@@ -1,0 +1,17 @@
+﻿# Build Folders
+
+
+# IDE Settings
+.vscode/
+.idea/
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Others
+.DS_Store
