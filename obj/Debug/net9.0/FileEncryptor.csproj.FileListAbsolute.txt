@@ -27,6 +27,7 @@ C:\Projekte\FileEncryptor\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
 C:\Projekte\FileEncryptor\bin\Debug\net9.0\Avalonia.Themes.Simple.dll
 C:\Projekte\FileEncryptor\bin\Debug\net9.0\Avalonia.Win32.dll
 C:\Projekte\FileEncryptor\bin\Debug\net9.0\Avalonia.X11.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\CommunityToolkit.Mvvm.dll
 C:\Projekte\FileEncryptor\bin\Debug\net9.0\HarfBuzzSharp.dll
 C:\Projekte\FileEncryptor\bin\Debug\net9.0\MicroCom.Runtime.dll
 C:\Projekte\FileEncryptor\bin\Debug\net9.0\SkiaSharp.dll
@@ -58,6 +59,7 @@ C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncryptor.GeneratedMSBuildEditorC
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncryptor.AssemblyInfoInputs.cache
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncryptor.AssemblyInfo.cs
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncryptor.csproj.CoreCompileInputs.cache
+C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncryptor.sourcelink.json
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\Avalonia\FileEncryptor.dll
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\Avalonia\FileEncryptor.pdb
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\refint\Avalonia\FileEncryptor.dll
