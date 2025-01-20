@@ -1,0 +1,15 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="FileEncryptor.Views.SymmetricPage">
+    <StackPanel  HorizontalAlignment="Stretch" >
+        <TextBlock  Margin="0 15" >Keyword</TextBlock>
+        <TextBox  Name="Key"  Watermark="Enter keyword"/>
+        <TextBlock  Margin="0 15" >Text</TextBlock>
+        <TextBox  Name="Text" TextWrapping="Wrap" AcceptsReturn="True"  Height="100" Watermark="Enter text"/>
+        <Button Click="OnClick" Foreground="White" Margin="0 15 0 0">Encrypt</Button>
+       <ToggleSwitch ></ToggleSwitch>
+    </StackPanel>
+</UserControl>

@@ -9,18 +9,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2870832-f012-424a-8d53-3b41a622e0e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitingnore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/avalonia.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/App.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/App.axaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileEncryptor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FileEncryptor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainWindow.axaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainWindow.axaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/app.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managers/EncryptionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Managers/EncryptionManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/MainWindow.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Views/MainWindow.axaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.exe" afterDir="false" />
@@ -30,7 +27,6 @@
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/references" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/references" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncr.B7D8A69B.Up2Date" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
@@ -40,12 +36,12 @@
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/ref/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/ref/FileEncryptor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Avalonia/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Avalonia/FileEncryptor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/refint/FileEncryptor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
@@ -71,8 +67,10 @@
     <setting file="file://$PROJECT_DIR$/ViewModels/ViewModelBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Views/MainWindow.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Views/MainWindow.axaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.deps.json" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0ceaca09f3944680b668dee8e1e0370b100a00/fd/394a60a5/TextBlock.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b03d84c4e8e7541fe8b95c855c47a2b73f56a88b76e718723efa46663e8872/Window.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e79f22f6933cad5794e6f31f7488276b66b47aebae4f796b192481943446f/ToggleSwitch.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -101,7 +99,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;XamlPreviewOptionsPage&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -169,7 +167,12 @@
       <workItem from="1734948251160" duration="1107000" />
       <workItem from="1734965697014" duration="5565000" />
       <workItem from="1734980229544" duration="1834000" />
-      <workItem from="1735051587848" duration="2024000" />
+      <workItem from="1735051587848" duration="4653000" />
+      <workItem from="1735300880400" duration="1886000" />
+      <workItem from="1735314307952" duration="4118000" />
+      <workItem from="1735389628043" duration="2762000" />
+      <workItem from="1735475650544" duration="599000" />
+      <workItem from="1737049426699" duration="3827000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <option name="closed" value="true" />
@@ -179,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734810039882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Switch to MVVM Template">
+      <option name="closed" value="true" />
+      <created>1735056752386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735056752386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +200,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="Switch to MVVM Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch to MVVM Template" />
   </component>
 </project>

@@ -66,3 +66,4 @@ C:\Projekte\FileEncryptor\obj\Debug\net9.0\refint\Avalonia\FileEncryptor.dll
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncr.B7D8A69B.Up2Date
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncryptor.genruntimeconfig.cache
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\ref\FileEncryptor.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+WTegkylHEc=",
+  "dgSpecHash": "KnGdaUvFVN4=",
   "success": true,
   "projectFilePath": "C:\\Projekte\\FileEncryptor\\FileEncryptor.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\holzk\\.nuget\\packages\\skiasharp.nativeassets.webassembly\\2.88.8\\skiasharp.nativeassets.webassembly.2.88.8.nupkg.sha512",
     "C:\\Users\\holzk\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
     "C:\\Users\\holzk\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\holzk\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512",
     "C:\\Users\\holzk\\.nuget\\packages\\tmds.dbus.protocol\\0.20.0\\tmds.dbus.protocol.0.20.0.nupkg.sha512"
   ],
   "logs": []

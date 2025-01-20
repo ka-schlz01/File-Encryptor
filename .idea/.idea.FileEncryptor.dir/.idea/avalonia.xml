@@ -4,7 +4,14 @@
     <option name="projectPerEditor">
       <map>
         <entry key="App.axaml" value="FileEncryptor.csproj" />
+        <entry key="Styles/StyleSheet.axaml" value="FileEncryptor.csproj" />
+        <entry key="Views/AESPage.axaml" value="FileEncryptor.csproj" />
         <entry key="Views/MainWindow.axaml" value="FileEncryptor.csproj" />
+        <entry key="Views/Pages/AESPage.axaml" value="FileEncryptor.csproj" />
+        <entry key="Views/Pages/StartScreen.axaml" value="FileEncryptor.csproj" />
+        <entry key="Views/Pages/SymmetricPage.axaml" value="FileEncryptor.csproj" />
+        <entry key="Views/StartingScreen.axaml" value="FileEncryptor.csproj" />
+        <entry key="Views/SymmetricPage.axaml" value="FileEncryptor.csproj" />
       </map>
     </option>
   </component>

@@ -24,5 +24,17 @@ build_property.EnableCodeStyleSeverity =
 [C:/Projekte/FileEncryptor/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Projekte/FileEncryptor/Styles/StyleSheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Projekte/FileEncryptor/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Projekte/FileEncryptor/Views/Pages/AESPage.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Projekte/FileEncryptor/Views/Pages/StartScreen.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Projekte/FileEncryptor/Views/Pages/SymmetricPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
