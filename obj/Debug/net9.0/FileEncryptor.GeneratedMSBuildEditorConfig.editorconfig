@@ -33,6 +33,9 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [C:/Projekte/FileEncryptor/Views/Pages/AESPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Projekte/FileEncryptor/Views/Pages/Controls/MessagePopup.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Projekte/FileEncryptor/Views/Pages/StartScreen.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 

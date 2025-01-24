@@ -2,14 +2,86 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:GetStartedApp.ViewModels"
+        xmlns:viewModels1="clr-namespace:FileEncryptor.ViewModels"
+        xmlns:converters="clr-namespace:GetStartedApp.Converters"
+        xmlns:controls="clr-namespace:FileEncryptor.Views.Pages.Controls"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-        x:Class="FileEncryptor.Views.SymmetricPage">
-    <StackPanel  HorizontalAlignment="Stretch" >
+        x:Class="FileEncryptor.Views.SymmetricPage"
+        x:DataType="viewModels1:SymmetricPageViewModel"
+        >
+    <UserControl.Resources>
+        <converters:BoolToTextConverter x:Key="BoolToTextConverter" />
+    </UserControl.Resources>
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <viewModels1:SymmetricPageViewModel/>
+    </Design.DataContext>
+    <StackPanel   HorizontalAlignment="Stretch" Margin="15">
+        <StackPanel Orientation="Horizontal"  Spacing="15" >
+            <TextBlock  VerticalAlignment="Center">Mode</TextBlock>
+            <ToggleSwitch x:Name="Switch" IsChecked="{Binding IsToggled}" OnContent="Decryption" OffContent="Encryption"></ToggleSwitch>
+        </StackPanel>
         <TextBlock  Margin="0 15" >Keyword</TextBlock>
-        <TextBox  Name="Key"  Watermark="Enter keyword"/>
+        <TextBox  Name="Keyword"  Watermark="Enter keyword"/>
+        <StackPanel IsVisible="{Binding #Switch.IsChecked}">
+            <TextBlock  Margin="0 15" >IV</TextBlock>
+            <TextBox  Name="IV" TextWrapping="Wrap" AcceptsReturn="True"  Height="20" Watermark="Enter IV"/>
+        </StackPanel>
         <TextBlock  Margin="0 15" >Text</TextBlock>
         <TextBox  Name="Text" TextWrapping="Wrap" AcceptsReturn="True"  Height="100" Watermark="Enter text"/>
-        <Button Click="OnClick" Foreground="White" Margin="0 15 0 0">Encrypt</Button>
-       <ToggleSwitch ></ToggleSwitch>
+        <StackPanel  Orientation="Horizontal" Spacing="10">
+            <Button 
+                Click="OnClick" Classes="blue" Margin="0 15 0 0" 
+                Content="{Binding IsToggled, Converter={StaticResource BoolToTextConverter}}"
+                />
+        </StackPanel>
+        
+        <Popup Name="EncryptionTextPopup"   PlacementMode="Center" >
+            <Border x:Name="PopupContainer"
+                    Width="500"
+                    BorderBrush="#3A3A3A" 
+                    Background="#1F1F1F"
+                    Classes="popup-container"
+                    BoxShadow="0 4 10 0 #00000088"
+                    Padding="0"
+                    ZIndex="100">
+                
+                <StackPanel Margin="15" Spacing="15">
+                    <Button x:Name="CloseButton"
+                            Width="30"
+                            Height="30"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Top"
+                            Margin="10" 
+                            Click="CloseButton_OnClick"
+                            >
+                        <Image>
+                            <Image.Source>
+                                <SvgImage Source="avares://FileEncryptor/Assets/icons/close_icon.svg" Css=".White { fill: #FFFFFF; }" />
+                            </Image.Source>
+                        </Image>
+                    </Button>
+                    <TextBox Name="EncryptedText" TextWrapping="Wrap" Height="100" />
+                    <Button  Classes="blue" Click="CopyEncryptedText">
+                        Copy
+                    </Button>
+                    <StackPanel IsVisible="{Binding !#Switch.IsChecked}">
+                        <TextBox  
+                                 Name="EncryptionIV" TextWrapping="Wrap" Height="100" />
+                        <Button  Classes="blue" Click="CopyIV">
+                            Copy
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </Popup>
+        <Popup Name="PopupMessage"  IsLightDismissEnabled="True" PlacementMode="Center" >
+            <controls:MessagePopup x:Name="MessagePopupControl"
+                                   HorizontalAlignment="Right"
+                                   VerticalAlignment="Top"
+            />
+        </Popup>
     </StackPanel>
 </UserControl>

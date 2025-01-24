@@ -12,6 +12,7 @@ namespace GetStartedApp.Views;
 public partial class MainWindow : Window
 {
     private readonly Stack<UserControl> _navigationStack = new();
+    
     public MainWindow()
     {
         InitializeComponent();

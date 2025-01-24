@@ -5,4 +5,5 @@ public interface IEncryption
     void Encrypt();
     
     void Decrypt();
+    
 }

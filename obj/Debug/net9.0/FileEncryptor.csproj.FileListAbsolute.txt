@@ -67,3 +67,14 @@ C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncr.B7D8A69B.Up2Date
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\FileEncryptor.genruntimeconfig.cache
 C:\Projekte\FileEncryptor\obj\Debug\net9.0\ref\FileEncryptor.dll
 C:\Projekte\FileEncryptor\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\Avalonia.Svg.Skia.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\ExCSS.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\ShimSkiaSharp.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\Svg.Custom.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\Svg.Model.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\Svg.Skia.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\xunit.assert.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\xunit.core.dll
+C:\Projekte\FileEncryptor\bin\Debug\net9.0\xunit.execution.dotnet.dll
