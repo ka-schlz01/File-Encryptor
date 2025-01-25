@@ -8,48 +8,142 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2870832-f012-424a-8d53-3b41a622e0e0" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/avalonia.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileEncryptor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FileEncryptor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Interfaces/IEncryption.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Interfaces/IEncryption.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles/StyleSheet.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/StyleSheet.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Views/MainWindow.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Pages/SymmetricPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Pages/SymmetricPage.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Pages/SymmetricPage.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Pages/SymmetricPage.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/FileEncryptor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/FileEncryptor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/FileEncryptor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/references" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/references" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/ref/FileEncryptor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Avalonia/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Avalonia/FileEncryptor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/FileEncryptor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/refint/FileEncryptor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+    <list default="true" id="d2870832-f012-424a-8d53-3b41a622e0e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/avalonia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileEncryptor.dir/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.axaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/avalonia-logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/icons/close_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converters/BoolToTextConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileEncryptor.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managers/EncryptionManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/EncryptionFileConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Interfaces/IEncryption.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Interfaces/SymmetricEncryptionResult.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/StyleSheet.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/EncryptionTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Aes256Helper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Helper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewLocator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModels/MainWindowViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModels/SymmetricPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModels/ViewModelBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/MainWindow.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/MainWindow.axaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/AESPage.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/AESPage.axaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/Controls/MessagePopup.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/Controls/MessagePopup.axaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/StartScreen.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/StartScreen.axaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/SymmetricPage.axaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Pages/SymmetricPage.axaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Base.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Controls.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.DesignerSupport.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Desktop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Diagnostics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Dialogs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.FreeDesktop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Markup.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Metal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.MicroCom.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Native.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.OpenGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Skia.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Themes.Simple.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Vulkan.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.Win32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.X11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Avalonia.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/FileEncryptor.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/HarfBuzzSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/MicroCom.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/SkiaSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Tmds.DBus.Protocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/FileEncryptor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/FileEncryptor.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/GetStartedApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/GetStartedApp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/references" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Avalonia/resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/FileEncryptor.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStart.4E492BE5.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/GetStartedApp.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Avalonia/FileEncryptor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Avalonia/GetStartedApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/FileEncryptor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/GetStartedApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/FileEncryptor.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +279,8 @@
       <workItem from="1737567135515" duration="634000" />
       <workItem from="1737652069408" duration="4262000" />
       <workItem from="1737730426648" duration="9970000" />
-      <workItem from="1737753122834" duration="2042000" />
+      <workItem from="1737753122834" duration="2377000" />
+      <workItem from="1737805520960" duration="564000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <option name="closed" value="true" />
@@ -211,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737386513059</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Unit testing">
+      <option name="closed" value="true" />
+      <created>1737755257609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737755257609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,25 +326,7 @@
     <MESSAGE value="-" />
     <MESSAGE value="Switch to MVVM Template" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Tests/EncryptionTests.cs</url>
-          <line>16</line>
-          <properties documentPath="C:\Projekte\FileEncryptor\Tests\EncryptionTests.cs" initialLine="16" containingFunctionPresentation="Method 'EncryptionAndDecryptionTest'">
-            <startOffsets>
-              <option value="371" />
-            </startOffsets>
-            <endOffsets>
-              <option value="454" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Unit testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit testing" />
   </component>
 </project>
