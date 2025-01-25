@@ -1,2 +1,13 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjekte_005CFileEncryptor_005CFileEncryptor_002Esln/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjekte_005CFileEncryptor_005CFileEncryptor_002Esln/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c930971_002D0ed6_002D46d5_002D9b97_002D0632927a128d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestIvEncoding" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7FF8486-6EB6-4ABF-8308-27385F7D5855::net9.0::EncryptionTests.TestIvEncoding&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f25de34_002Ddd44_002D4b55_002Dadb3_002D11d61d0bd630/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from EncryptionTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;B7FF8486-6EB6-4ABF-8308-27385F7D5855/d:ViewModels/f:EncryptionTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3bae2f0_002Da021_002D42db_002D94e6_002D14b739fad7df/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from EncryptionTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;B7FF8486-6EB6-4ABF-8308-27385F7D5855/d:ViewModels/f:EncryptionTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

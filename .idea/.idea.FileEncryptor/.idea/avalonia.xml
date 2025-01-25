@@ -4,6 +4,7 @@
     <option name="projectPerEditor">
       <map>
         <entry key="FileEncryptor/App.axaml" value="FileEncryptor/FileEncryptor.csproj" />
+        <entry key="FileEncryptor/Views/Pages/SymmetricPage.axaml" value="FileEncryptor/FileEncryptor.csproj" />
       </map>
     </option>
   </component>

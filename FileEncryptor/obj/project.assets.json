@@ -775,15 +775,6 @@
             "related": ".xml"
           }
         }
-      },
-      "FileEncryptor.Tests/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/FileEncryptor.Tests.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FileEncryptor.Tests.dll": {}
-        }
       }
     }
   },
@@ -1935,11 +1926,6 @@
         "xunit.extensibility.execution.2.9.3.nupkg.sha512",
         "xunit.extensibility.execution.nuspec"
       ]
-    },
-    "FileEncryptor.Tests/1.0.0": {
-      "type": "project",
-      "path": "../FileEncryptor.Tests/FileEncryptor.Tests.csproj",
-      "msbuildProject": "../FileEncryptor.Tests/FileEncryptor.Tests.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1951,7 +1937,6 @@
       "Avalonia.Svg.Skia >= 11.2.0.2",
       "Avalonia.Themes.Fluent >= 11.2.1",
       "CommunityToolkit.Mvvm >= 8.2.1",
-      "FileEncryptor.Tests >= 1.0.0",
       "System.Security.Cryptography.ProtectedData >= 9.0.0",
       "xunit >= 2.9.3"
     ]
@@ -1987,11 +1972,7 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {
-            "C:\\Projekte\\FileEncryptor\\FileEncryptor.Tests\\FileEncryptor.Tests.csproj": {
-              "projectPath": "C:\\Projekte\\FileEncryptor\\FileEncryptor.Tests\\FileEncryptor.Tests.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
